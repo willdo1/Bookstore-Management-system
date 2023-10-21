@@ -28,7 +28,7 @@ function BookShow({book}) {
        
                     book.quantity= Number(book.quantity) -qty;
         editBookById(id, book.title, book.description, book.quantity, book.price);
-        setOpen((o) => !o)
+        setOpen((current) => !current)
         setQty(0)
     }
     return <div className="show-book">
