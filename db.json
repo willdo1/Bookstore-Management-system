@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "\tከአድማስ ባሻገር",
+      "description": "በዓሉ ግርማ",
+      "quantity": 140,
+      "price": "150",
+      "id": 1
+    },
+    {
+      "title": "ፍቅር እስከ መቃብር",
+      "description": " ሀዲስ ዓለማየሁ",
+      "quantity": "50",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "title": "\tየተቆለፈበት ቁልፍ",
+      "description": "ምህረት ደበበ",
+      "quantity": "80",
+      "price": "120",
+      "id": 3
+    },
+    {
+      "title": "እመጓ",
+      "description": "ዓለማየሁ ዋሴ",
+      "quantity": "23",
+      "price": "220",
+      "id": 4
+    }
+  ]
+}
